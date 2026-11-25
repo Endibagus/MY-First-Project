@@ -1,0 +1,8 @@
+{
+  "name": "SuaraStudio",
+  "description": "Aplikasi text-to-voice dengan kontrol intonasi suara kustom dan ekspor MP3 berkualitas studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
